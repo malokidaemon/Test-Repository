@@ -1,0 +1,8 @@
+Current Observations:
+
+a) LF Normalization (Windows doesn't use CRLF in the same way that Linux/Unix does, so the system, for certain files like .docx, appears to be automatically correcting. Does correction go both ways, or is the "corrected" file used to overwrite the original, and thus, original formatting is lost? Is there a way to exclude specific file types (or, even specific files) with a configuration setting?
+
+b) Directory - when specifying the directory for my repository, I was unable to specify a destination directory different than the Repository name. Is there a way to override? (This implies that it may be difficult to directly move files to an alternate location, but there may be a command that I'm unaware of.)
+	i) Given the idea of sub-repositories, would it be possible to have appropriately named sub-repos to mitigate the "issue" (as I'm not sure if it is really an issue yet....
+
+c) Initial Note: A "fork" appears to represent an entirely new Repository, while a branch represents a node within "tree"
