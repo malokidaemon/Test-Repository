@@ -9,3 +9,6 @@ c) Initial Note: A "fork" appears to represent an entirely new Repository, while
 
 d) From the intial work with issues, it appears as though this can only be done from the website, not the GitHub client software.
    Is it a function only available from the command line?
+   
+e) I see that I can add a branch, and that files added to branch only show up in that branch. HOWEVER - if I have branches, how do
+   I add a file only to that branch if I am working in windows.
