@@ -12,3 +12,9 @@ d) From the intial work with issues, it appears as though this can only be done 
    
 e) I see that I can add a branch, and that files added to branch only show up in that branch. HOWEVER - if I have branches, how do
    I add a file only to that branch if I am working in windows.
+
+f) Can you select only a portion of the pull request to merge, or must the whole merge request be confirmed/denied?
+   When making a pull request, can you select only certain files?
+
+g) How do I synchronize changes from the main branch to other branches? (E.g., if I want to update a file in a particular brance.)
+   
