@@ -6,3 +6,6 @@ b) Directory - when specifying the directory for my repository, I was unable to 
 	i) Given the idea of sub-repositories, would it be possible to have appropriately named sub-repos to mitigate the "issue" (as I'm not sure if it is really an issue yet....
 
 c) Initial Note: A "fork" appears to represent an entirely new Repository, while a branch represents a node within "tree"
+
+d) From the intial work with issues, it appears as though this can only be done from the website, not the GitHub client software.
+   Is it a function only available from the command line?
